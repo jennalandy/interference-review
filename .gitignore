@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.Rhistory
+SimulationStudy.qmd
+bst258_project.Rproj
+old.R
+SimulationStudy_cache/
+SimulationStudy_files/
